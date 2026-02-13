@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#58a6ff;">GEMA FAJAR RAMADHAN</span>
+</h1>
 
-<!--
-**gemafajarramadhan/gemafajarramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ✨ Terima kasih sudah mampir ke profile GitHub saya ✨
+</p>
